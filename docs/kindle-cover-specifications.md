@@ -1,31 +1,31 @@
-# Kindle Book Cover Specifications
+# Kindle 表紙仕様書
 
-## Recommended Dimensions
+## 推奨サイズ
 
-- **Height**: 2,560 pixels (or 2,500 pixels for optimal quality on high-definition devices)
-- **Width**: 1,600 pixels
-- **Aspect Ratio**: 1.6:1 (height must be 1.6 times the width)
+- **高さ**: 2,560 ピクセル（高精細デバイスでの最高品質を求める場合は2,500ピクセル）
+- **幅**: 1,600 ピクセル
+- **アスペクト比**: 1.6:1（高さは幅の1.6倍）
 
-## File Format Requirements
+## ファイル形式の要件
 
-- **Format**: JPEG (preferred) or TIFF
-- **Resolution**: 300 DPI/PPI minimum
-- **Color Profile**: RGB (CMYK is not supported by Kindle)
+- **形式**: JPEG（推奨）またはTIFF
+- **解像度**: 300 DPI/PPI 以上
+- **カラープロファイル**: RGB（KindleはCMYKに対応していません）
 
-## Size Limits
+## サイズの制限
 
-- **Minimum**: 625 x 1000 pixels (covers with less than 500 pixels on the shortest side are not displayed on the website)
-- **Maximum**: 10,000 x 10,000 pixels
+- **最小**: 625 x 1,000 ピクセル（短辺が500ピクセル未満の場合、ウェブサイトに表示されません）
+- **最大**: 10,000 x 10,000 ピクセル
 
-## Design Tips
+## デザインのヒント
 
-- Avoid white or very light backgrounds as they may blend with the website background
-- Add a narrow 3-4 pixel border in medium gray to define the cover boundaries
+- 白色または薄い色の背景は避ける（ウェブサイトの背景と同化します）
+- 表紙の境界を明確にするため、濃いグレーの細い枠線（3～4ピクセル）を追加することをお勧めします
 
-## Reference
+## 参考資料
 
-For the most current and complete information, visit the [official Amazon KDP help page](https://kdp.amazon.com/en_US/help/topic/G200645690)
+最新で完全な情報については、[Amazon KDP公式ヘルプページ](https://kdp.amazon.com/en_US/help/topic/G200645690)をご覧ください。
 
 ---
 
-**Last Updated**: 2026-05-07
+**最終更新**: 2026-05-07
